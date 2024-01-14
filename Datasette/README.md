@@ -3,3 +3,8 @@
 ![](https://github.com/munna710/DE-DB2/blob/main/Datasette/add-datasette.png)
 ![](https://github.com/munna710/DE-DB2/blob/main/Datasette/select.png)
 - Once the query executes successfully, it displays the counts.
+
+![](https://github.com/munna710/DE-DB2/blob/main/Datasette/maxDT.png)
+![](https://github.com/munna710/DE-DB2/blob/main/Datasette/distinctDT.png)
+![](https://github.com/munna710/DE-DB2/blob/main/Datasette/countdiddt.png)
+![](https://github.com/munna710/DE-DB2/blob/main/Datasette/like.png)
