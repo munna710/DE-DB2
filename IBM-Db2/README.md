@@ -4,3 +4,7 @@
 ![](https://github.com/munna710/DE-DB2/blob/main/IBM-Db2/LD3.png)
 ![](https://github.com/munna710/DE-DB2/blob/main/IBM-Db2/LD4.png)
 ![](https://github.com/munna710/DE-DB2/blob/main/IBM-Db2/LD5.png)
+## sql queries
+![](https://github.com/munna710/DE-DB2/blob/main/IBM-Db2/countDB.png)
+![](https://github.com/munna710/DE-DB2/blob/main/IBM-Db2/MaxDB.png)
+![](https://github.com/munna710/DE-DB2/blob/main/IBM-Db2/DIStinctDB.png)
