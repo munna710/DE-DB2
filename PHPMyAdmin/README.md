@@ -1,4 +1,5 @@
-# structure of the myauthors table from the Books database
+# LAB-1
+## structure of the myauthors table from the Books database
 ![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0110EN-SkillsNetwork/datasets/Books/Books_schema.png)
 ## create a database named Books
 ![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0110EN-SkillsNetwork/labs/Lab%20-%20Create%20Tables%20and%20Load%20Data%20in%20MySQL%20using%20phpMyAdmin/images/2.5.png)
